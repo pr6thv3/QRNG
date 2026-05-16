@@ -43,7 +43,7 @@ Traditional password generators use pseudo-random number generators (PRNGs), whi
 ## ⚙️ Installation (Local)
 
 ```bash
-git clone https://github.com/your-username/quantum-password-generator.git
+git clone https://github.com/pr6thv3/QRNG.git
 cd quantum-password-generator
 pip install -r requirements.txt
 streamlit run app.py  # or flask run if using Flask
